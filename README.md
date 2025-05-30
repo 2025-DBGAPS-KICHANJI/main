@@ -1,7 +1,6 @@
 <h1 align="center">🌐 기찬지 </h1>
 
 <p align="center">
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Team-GitHub-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
 </p>
